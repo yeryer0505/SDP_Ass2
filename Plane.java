@@ -1,4 +1,4 @@
-package factory;
+package abstractfactory;
 
 public class Plane implements Transport {
     @Override

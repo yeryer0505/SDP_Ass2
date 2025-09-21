@@ -1,4 +1,4 @@
-package factory;
+package abstractfactory;
 
 public class Car implements Transport {
     @Override

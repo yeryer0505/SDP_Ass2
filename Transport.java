@@ -1,4 +1,4 @@
-package factory;
+package abstractfactory;
 
 public interface Transport {
     void move();
